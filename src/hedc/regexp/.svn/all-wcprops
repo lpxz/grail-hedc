@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/73/trunk/hedc/src/hedc/regexp
+END
+State.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/73/trunk/hedc/src/hedc/regexp/State.java
+END
+MalformedRegexpException.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/73/trunk/hedc/src/hedc/regexp/MalformedRegexpException.java
+END
+Alternatives.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/73/trunk/hedc/src/hedc/regexp/Alternatives.java
+END
+ContextMatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/73/trunk/hedc/src/hedc/regexp/ContextMatch.java
+END
+CharClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/73/trunk/hedc/src/hedc/regexp/CharClass.java
+END
+RegexpCompiler.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/73/trunk/hedc/src/hedc/regexp/RegexpCompiler.java
+END
+Dot.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/73/trunk/hedc/src/hedc/regexp/Dot.java
+END
+Regexp.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/73/trunk/hedc/src/hedc/regexp/Regexp.java
+END
+Multi.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/73/trunk/hedc/src/hedc/regexp/Multi.java
+END
+GroupReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/73/trunk/hedc/src/hedc/regexp/GroupReference.java
+END
+NoSuchMatchException.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/73/trunk/hedc/src/hedc/regexp/NoSuchMatchException.java
+END
+Literal.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/73/trunk/hedc/src/hedc/regexp/Literal.java
+END
+Group.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/73/trunk/hedc/src/hedc/regexp/Group.java
+END
+Result.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/73/trunk/hedc/src/hedc/regexp/Result.java
+END

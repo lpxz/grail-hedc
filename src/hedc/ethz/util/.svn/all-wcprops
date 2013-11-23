@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/73/trunk/hedc/src/hedc/ethz/util
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/73/trunk/hedc/src/hedc/ethz/util/Messages.java
+END
+Estimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/73/trunk/hedc/src/hedc/ethz/util/Estimator.java
+END
+SerializePerformanceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/73/trunk/hedc/src/hedc/ethz/util/SerializePerformanceTest.java
+END
+EtcUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/73/trunk/hedc/src/hedc/ethz/util/EtcUtil.java
+END
+BufferedCopy.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/73/trunk/hedc/src/hedc/ethz/util/BufferedCopy.java
+END
+Logger.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/73/trunk/hedc/src/hedc/ethz/util/Logger.java
+END
+HttpLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/73/trunk/hedc/src/hedc/ethz/util/HttpLogger.java
+END
+SmartRef.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/73/trunk/hedc/src/hedc/ethz/util/SmartRef.java
+END
+Generator.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/73/trunk/hedc/src/hedc/ethz/util/Generator.java
+END
+CopyStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/73/trunk/hedc/src/hedc/ethz/util/CopyStream.java
+END
+RmiLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/73/trunk/hedc/src/hedc/ethz/util/RmiLogger.java
+END
+BaseProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/73/trunk/hedc/src/hedc/ethz/util/BaseProperties.java
+END
+Ftp.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/73/trunk/hedc/src/hedc/ethz/util/Ftp.java
+END
+PropertyMonitoring.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/73/trunk/hedc/src/hedc/ethz/util/PropertyMonitoring.java
+END
+EstimatorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/73/trunk/hedc/src/hedc/ethz/util/EstimatorFactory.java
+END
+DoubleBufferCopy.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/73/trunk/hedc/src/hedc/ethz/util/DoubleBufferCopy.java
+END
+ThreadFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/73/trunk/hedc/src/hedc/ethz/util/ThreadFactory.java
+END
+SystemProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/73/trunk/hedc/src/hedc/ethz/util/SystemProperties.java
+END
+ObservableProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/73/trunk/hedc/src/hedc/ethz/util/ObservableProperties.java
+END
+URLConnectionReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/73/trunk/hedc/src/hedc/ethz/util/URLConnectionReader.java
+END

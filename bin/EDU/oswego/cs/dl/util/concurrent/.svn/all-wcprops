@@ -1,0 +1,515 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent
+END
+ThreadFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/ThreadFactory.java
+END
+SynchronizedLong.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/SynchronizedLong.java
+END
+Mutex.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/Mutex.java
+END
+Takable.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/Takable.java
+END
+SynchronizedByte.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/SynchronizedByte.java
+END
+TimeoutException.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/TimeoutException.java
+END
+QueuedExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/QueuedExecutor.java
+END
+SyncList.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/SyncList.java
+END
+ReentrantLock.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/ReentrantLock.java
+END
+CopyOnWriteArrayList.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/CopyOnWriteArrayList.java
+END
+Heap.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/Heap.java
+END
+CountDown.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/CountDown.java
+END
+ObservableSync.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/ObservableSync.java
+END
+TimeDaemon.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/TimeDaemon.java
+END
+FJTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/FJTask.java
+END
+WaitableChar.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/WaitableChar.java
+END
+BoundedPriorityQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/BoundedPriorityQueue.java
+END
+SyncSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/SyncSet.java
+END
+SynchronizedShort.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/SynchronizedShort.java
+END
+PooledExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/PooledExecutor.java
+END
+SemaphoreControlledChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/SemaphoreControlledChannel.java
+END
+SynchronizedFloat.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/SynchronizedFloat.java
+END
+WaitableLong.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/WaitableLong.java
+END
+BoundedChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/BoundedChannel.java
+END
+BoundedBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/BoundedBuffer.java
+END
+WaitFreeQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/WaitFreeQueue.java
+END
+WaitableByte.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/WaitableByte.java
+END
+SynchronizedRef.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/SynchronizedRef.java
+END
+ClockDaemon.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/ClockDaemon.java
+END
+LockedExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/LockedExecutor.java
+END
+WaitableDouble.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/WaitableDouble.java
+END
+SynchronousChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/SynchronousChannel.java
+END
+WaitableRef.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/WaitableRef.java
+END
+Barrier.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/Barrier.java
+END
+DirectExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/DirectExecutor.java
+END
+WriterPreferenceReadWriteLock.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/WriterPreferenceReadWriteLock.java
+END
+Latch.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/Latch.java
+END
+QueuedSemaphore.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/QueuedSemaphore.java
+END
+WaiterPreferenceSemaphore.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/WaiterPreferenceSemaphore.java
+END
+ThreadFactoryUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/ThreadFactoryUser.java
+END
+Callable.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/Callable.java
+END
+FIFOReadWriteLock.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/FIFOReadWriteLock.java
+END
+Rendezvous.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/Rendezvous.java
+END
+BrokenBarrierException.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/BrokenBarrierException.java
+END
+NullSync.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/NullSync.java
+END
+PropertyChangeMulticaster.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/PropertyChangeMulticaster.java
+END
+Channel.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/Channel.java
+END
+SyncSortedSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/SyncSortedSet.java
+END
+FutureResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/FutureResult.java
+END
+SynchronizedDouble.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/SynchronizedDouble.java
+END
+SyncMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/SyncMap.java
+END
+BoundedLinkedQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/BoundedLinkedQueue.java
+END
+LinkedNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/LinkedNode.java
+END
+Sync.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/Sync.java
+END
+SynchronizedBoolean.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/SynchronizedBoolean.java
+END
+Slot.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/Slot.java
+END
+LayeredSync.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/LayeredSync.java
+END
+TimeoutSync.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/TimeoutSync.java
+END
+FIFOSemaphore.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/FIFOSemaphore.java
+END
+WaitableBoolean.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/WaitableBoolean.java
+END
+SynchronizedInt.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/SynchronizedInt.java
+END
+DefaultChannelCapacity.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/DefaultChannelCapacity.java
+END
+CondVar.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/CondVar.java
+END
+Executor.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/Executor.java
+END
+ReadWriteLock.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/ReadWriteLock.java
+END
+ThreadedExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/ThreadedExecutor.java
+END
+WaitableInt.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/WaitableInt.java
+END
+WaitableShort.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/WaitableShort.java
+END
+LinkedQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/LinkedQueue.java
+END
+FJTaskRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/FJTaskRunner.java
+END
+SynchronizedChar.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/SynchronizedChar.java
+END
+CyclicBarrier.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/CyclicBarrier.java
+END
+ReentrantWriterPreferenceReadWriteLock.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/ReentrantWriterPreferenceReadWriteLock.java
+END
+WaitableFloat.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/WaitableFloat.java
+END
+Puttable.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/Puttable.java
+END
+ReaderPreferenceReadWriteLock.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/ReaderPreferenceReadWriteLock.java
+END
+TimedCallable.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/TimedCallable.java
+END
+Semaphore.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/Semaphore.java
+END
+VetoableChangeMulticaster.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/VetoableChangeMulticaster.java
+END
+SynchronizedVariable.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/SynchronizedVariable.java
+END
+PrioritySemaphore.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/PrioritySemaphore.java
+END
+SyncCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/SyncCollection.java
+END
+FJTaskRunnerGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/FJTaskRunnerGroup.java
+END
+SyncSortedMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/SyncSortedMap.java
+END
+CopyOnWriteArraySet.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/73/trunk/hedc/src/EDU/oswego/cs/dl/util/concurrent/CopyOnWriteArraySet.java
+END
